@@ -1,0 +1,219 @@
+2025-02-18 21:25:20,568 - INFO - \U0001f680 Telegram Image scraper started successfully.
+2025-02-18 21:26:50,403 - INFO - \U0001f680 Telegram message scraper started successfully.
+2025-02-18 22:44:32,326 - INFO - \U0001f680 Telegram message scraper started successfully.
+2025-02-18 22:44:33,378 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-18 22:44:35,190 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-18 22:46:10,521 - INFO - \U0001f680 Telegram message scraper started successfully.
+2025-02-18 22:46:10,537 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-18 22:46:10,665 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-18 22:46:22,728 - INFO - Phone migrated to 4
+2025-02-18 22:46:22,908 - INFO - Reconnecting to new data center 4
+2025-02-18 22:46:23,425 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-02-18 22:46:23,425 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-02-18 22:46:23,431 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-02-18 22:46:25,196 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-02-18 22:46:36,394 - INFO - \u2705 Scraped 100 messages from https://t.me/DoctorsET
+2025-02-18 22:46:37,052 - INFO - \u2705 Scraped 76 messages from https://t.me/CheMed123
+2025-02-18 22:46:37,689 - INFO - \u2705 Scraped 100 messages from https://t.me/lobelia4cosmetics
+2025-02-18 22:46:38,568 - INFO - \u2705 Scraped 100 messages from https://t.me/yetenaweg
+2025-02-18 22:46:39,673 - INFO - \u2705 Scraped 100 messages from https://t.me/EAHCI
+2025-02-18 22:46:39,807 - INFO - \U0001f4cc Messages saved successfully!
+2025-02-18 22:46:39,810 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-02-18 22:46:39,811 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-02-18 22:47:45,445 - INFO - \U0001f680 Telegram Image scraper started successfully.
+2025-02-18 22:47:45,461 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-02-18 22:47:45,573 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-02-18 22:47:47,091 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:47,883 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-02-10_12-23-06.jpg
+2025-02-18 22:47:47,883 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:49,113 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-02-02_08-58-52.jpg
+2025-02-18 22:47:49,113 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:49,931 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-02-01_08-59-37.jpg
+2025-02-18 22:47:49,947 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:50,963 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-31_09-19-53.jpg
+2025-02-18 22:47:50,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:52,092 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-30_09-45-25.jpg
+2025-02-18 22:47:52,092 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:53,389 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-27_07-18-40.jpg
+2025-02-18 22:47:53,405 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:54,107 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-26_18-27-53.jpg
+2025-02-18 22:47:54,107 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:55,677 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-23_10-39-20.jpg
+2025-02-18 22:47:55,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:56,938 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-17_08-43-12.jpg
+2025-02-18 22:47:56,938 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:58,054 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-16_13-41-35.jpg
+2025-02-18 22:47:58,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:47:59,304 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-16_10-13-42.jpg
+2025-02-18 22:47:59,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:00,084 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-16_09-26-09.jpg
+2025-02-18 22:48:00,084 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:00,855 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-13_12-48-47.jpg
+2025-02-18 22:48:00,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:02,297 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-13_09-44-14.jpg
+2025-02-18 22:48:02,299 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:03,086 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-06_16-06-21.jpg
+2025-02-18 22:48:03,086 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:04,650 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-06_09-31-17.jpg
+2025-02-18 22:48:04,650 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:06,115 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-06_06-05-01.jpg
+2025-02-18 22:48:06,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:07,421 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-04_05-58-02.jpg
+2025-02-18 22:48:07,452 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:08,646 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-03_17-49-48.jpg
+2025-02-18 22:48:08,693 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:10,058 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-03_05-48-34.jpg
+2025-02-18 22:48:10,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:10,901 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2023-01-02_07-02-55.jpg
+2025-02-18 22:48:10,901 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:12,084 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-30_15-45-35.jpg
+2025-02-18 22:48:12,099 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:13,233 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-28_17-02-08.jpg
+2025-02-18 22:48:13,233 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:14,428 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-28_06-31-50.jpg
+2025-02-18 22:48:14,445 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:15,733 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-27_17-06-32.jpg
+2025-02-18 22:48:15,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:16,548 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-23_06-26-15.jpg
+2025-02-18 22:48:16,549 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:17,399 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-22_06-40-25.jpg
+2025-02-18 22:48:17,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:17,853 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-22_03-11-26.jpg
+2025-02-18 22:48:17,853 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:18,632 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-21_15-13-27.jpg
+2025-02-18 22:48:18,634 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:20,093 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-20_17-25-05.jpg
+2025-02-18 22:48:20,117 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:21,287 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-20_11-28-59.jpg
+2025-02-18 22:48:21,296 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:22,385 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-20_07-41-33.jpg
+2025-02-18 22:48:22,397 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:23,271 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-16_12-21-01.jpg
+2025-02-18 22:48:23,272 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:24,001 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-13_05-55-18.jpg
+2025-02-18 22:48:24,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:24,830 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-09_12-28-53.jpg
+2025-02-18 22:48:24,853 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:26,488 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-09_04-09-49.jpg
+2025-02-18 22:48:26,488 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:27,346 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-07_06-43-48.jpg
+2025-02-18 22:48:27,346 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:28,313 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-05_05-57-22.jpg
+2025-02-18 22:48:28,329 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:29,107 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-04_12-35-18.jpg
+2025-02-18 22:48:29,107 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:30,129 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-02_13-44-41.jpg
+2025-02-18 22:48:30,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:31,245 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-02_06-06-12.jpg
+2025-02-18 22:48:31,261 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:32,016 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-12-01_06-47-22.jpg
+2025-02-18 22:48:32,019 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:32,894 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-11-30_06-31-44.jpg
+2025-02-18 22:48:32,905 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:33,677 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-11-29_07-43-06.jpg
+2025-02-18 22:48:33,678 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:34,678 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-11-22_08-15-47.jpg
+2025-02-18 22:48:34,678 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:38,412 - INFO - \u2705 Downloaded image from https://t.me/CheMed123 - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_CheMed123_2022-11-15_11-51-16.jpg
+2025-02-18 22:48:38,810 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:39,460 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_13-53-23.jpg
+2025-02-18 22:48:39,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:40,511 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_13-53-23.jpg
+2025-02-18 22:48:40,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:41,060 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_13-53-23.jpg
+2025-02-18 22:48:41,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:44,462 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_13-53-23.jpg
+2025-02-18 22:48:44,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:44,900 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_13-53-23.jpg
+2025-02-18 22:48:44,902 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:45,652 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:45,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:45,947 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:45,948 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:46,575 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:46,575 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:47,343 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:47,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:47,860 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:47,860 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:49,814 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-28.jpg
+2025-02-18 22:48:49,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:51,590 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:51,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:52,073 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:52,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:52,552 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:52,553 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:53,643 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:53,659 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:54,354 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:54,354 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:54,845 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:54,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:56,432 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-18_05-11-27.jpg
+2025-02-18 22:48:56,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:57,099 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_14-37-03.jpg
+2025-02-18 22:48:57,099 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:58,007 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_14-37-03.jpg
+2025-02-18 22:48:58,008 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:48:59,902 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_14-37-02.jpg
+2025-02-18 22:48:59,902 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:01,647 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_14-37-02.jpg
+2025-02-18 22:49:01,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:02,053 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_14-37-02.jpg
+2025-02-18 22:49:02,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:02,349 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_13-44-38.jpg
+2025-02-18 22:49:02,349 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:02,818 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_13-44-38.jpg
+2025-02-18 22:49:02,818 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:03,989 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_13-44-38.jpg
+2025-02-18 22:49:03,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:04,458 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_13-44-38.jpg
+2025-02-18 22:49:04,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:08,255 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_13-44-38.jpg
+2025-02-18 22:49:08,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:10,770 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:10,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:11,255 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:11,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:12,311 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:12,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:12,709 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:12,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:13,043 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:13,043 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:13,968 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:13,968 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:16,975 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:16,976 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:17,600 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:17,600 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:18,216 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:18,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:19,099 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-17_05-50-41.jpg
+2025-02-18 22:49:19,099 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:19,437 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-20.jpg
+2025-02-18 22:49:19,437 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:19,999 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:19,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:20,413 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:20,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:20,748 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:20,749 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:21,022 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:21,022 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:23,236 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:23,236 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:24,865 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:24,865 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:25,415 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:25,415 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:25,641 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:25,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:25,890 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:25,890 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:26,564 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:26,564 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-18 22:49:27,381 - INFO - \u2705 Downloaded image from https://t.me/lobelia4cosmetics - C:\Users\USER\Desktop\KAIM\Kara-Solutions-Data-Warehouse\data\images\_lobelia4cosmetics_2025-02-16_12-57-19.jpg
+2025-02-18 22:49:27,381 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-02-18 22:49:27,381 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
